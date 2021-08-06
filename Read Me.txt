@@ -9,6 +9,10 @@ ipc                  1.0
 pandas               0.25.3
 propy3               1.0.0a2
 
+Pip can be used to install these packages
+Example:
+pip install propy3
+
 How to use:
 1- Run the "RunMe.ipynb" File.
 2- Put your peptide sequences in the b list as an element.
