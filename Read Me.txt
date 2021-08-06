@@ -1,0 +1,3 @@
+1- Run the "RunMe.ipynb" File.
+2- Put your peptide sequences in the b list as an element.
+3- Run the next cell
