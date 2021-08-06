@@ -1,3 +1,15 @@
+Requirements        Version
+scikit-learn         0.22
+numpy                1.17.4
+jupyter              1.0.0
+jupyter-client       5.3.4
+jupyter-console      6.0.0
+jupyter-core         4.6.1
+ipc                  1.0
+pandas               0.25.3
+propy3               1.0.0a2
+
+How to use:
 1- Run the "RunMe.ipynb" File.
 2- Put your peptide sequences in the b list as an element.
 3- Run the next cell
